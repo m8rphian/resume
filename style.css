@@ -5,10 +5,11 @@ body {
 header a {
        text-decoration: none;
        text-align: center;
-       border: 5px solid black;
+       border: 1px dotted black;
        padding: 5px;
        margin: 5px;
-       color: black
+       color: black; 
+       background-color: Lavender
 }
 
 h5 {
