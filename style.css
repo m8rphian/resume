@@ -7,12 +7,17 @@ header a {
        color: black
 }
 
+h5 {
+       font-size: 20px;
+       text-align: center
+}
+
 body p {
        text-align: left;
        font-size: 17px
 }
 
-header, h1, h2, h5, footer {
+header, h1, h2, footer {
        background-color: Lavender;
        text-align: center
      }
