@@ -6,7 +6,7 @@ header a {
        margin: 5px
 }
 
-body {
+body, h5 {
        font-family: coursive; 
        font-size: 20px
      }
