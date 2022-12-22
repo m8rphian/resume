@@ -1,8 +1,17 @@
+header a {
+       text-decoration: none;
+       text-align: center;
+       border: 5px;
+       padding: 5px;
+       margin: 5px
+}
+
 body {
        font-family: coursive; 
        font-size: 20px
      }
 
 header, h1, h2, footer {
-       background-color: Lavender
+       background-color: Lavender;
+       text-align: center
      }
