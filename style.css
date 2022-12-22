@@ -3,7 +3,8 @@ header a {
        text-align: center;
        border: 5px solid black;
        padding: 5px;
-       margin: 5px
+       margin: 5px;
+       color: black
 }
 
 body, h5 {
