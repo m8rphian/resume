@@ -1,29 +1,56 @@
 body {
-       background-color: Lavender
+    background-color: Seashell;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 18.5px
 }
 
-header a {
-       text-decoration: none;
-       text-align: center;
-       border: 1px dotted black;
-       border-radius: 10px;
-       padding: 5px;
-       margin: 5px;
-       color: black; 
-       background-color: Lavender
+header a, footer a {
+    text-decoration: none;
+    text-align: center;
+    border: 1px dashed black;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+    color: black; 
+    background-color: Khaki
+}
+
+h1 {
+    text-decoration: overline 0.5px
+}
+
+h2 {
+    background-color: lightcoral;
+    padding: 5px
 }
 
 h5 {
-       font-size: 20px;
-       text-align: center
+    font-size: 20px
 }
 
-body p {
-       text-align: left;
-       font-size: 17px
+img {
+    width: 250px;
+    border: 2px dotted black;
+    border-radius: 25px
 }
 
-header, h2, footer {
-       background-color: Lightyellow;
-       text-align: center
-     }
+.photo {
+    margin-bottom: 50px
+}
+
+.photo1, .photo2 {
+    margin-bottom: 12.5px
+}
+
+header, footer {
+    background-color: lightseagreen;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 8px
+  }
+  
+  footer {
+    padding-bottom: 20px;
+    margin-top: 50px
+  }
